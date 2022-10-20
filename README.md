@@ -1,2 +1,2 @@
-# mahir-publis-github-pages
+# mahir-publish-github-pages
 test project
